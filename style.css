@@ -1,0 +1,24 @@
+table {
+    margin: 0 auto; /* center the table */
+}
+
+td {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 100px;
+    border: 1px solid black;
+}
+
+#cell-1, #cell-3, #cell-5, #cell-7 {
+    background-color: #E91E63; /* pink color */
+}
+
+#cell-2, #cell-4, #cell-6, #cell-8 {
+    background-color: #9C27B0; /* purple color */
+}
+
+#cell-9 {
+    background-color: #3F51B5; /* blue color */
+}
